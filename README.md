@@ -1,6 +1,6 @@
 # 📉 Customer Churn Analysis
 
-A data analysis project that digs into customer-level data to identify the behavioral, contractual, and demographic factors driving churn — and turns those findings into recommendations a retention team can act on.
+A data analysis project that digs into customer-level data to identify the behavioral, contractual, and demographic factors driving churn and turns those findings into recommendations a retention team can act on.
 
 ## 📌 Problem Statement
 Customer churn directly erodes recurring revenue, and acquiring a new customer typically costs far more than retaining an existing one. Rather than guessing why customers leave, this project uses structured analysis to answer a concrete question: **which customer segments are most likely to churn, and what's driving it?**
