@@ -81,6 +81,7 @@ This analysis shows that churn isn't random — it concentrates heavily among ne
 
 ## 👨‍💻 Author
 
-**Kalyani Tanagade**
+**Kalyani Tangade**
 B.Tech IT Graduate | Aspiring Data Analyst
-📍 Mumbai, India
+Mumbai, India
+kalyanitangade4@gmail.com
