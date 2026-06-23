@@ -33,9 +33,9 @@ The analysis uses a customer-level dataset (e.g., the widely-used Telco Customer
 6. **Give recommendations** – Suggest practical actions the business can take based on what the data shows.
 
 ## 📊 Key Findings (Illustrative)
-- **Contract type is the single biggest lever.** Month-to-month customers churn at far higher rates than one- or two-year contract holders. Incentivizing a switch to longer commitments (even a modest discount) is likely the highest-leverage retention action available.
-- **Early tenure is the danger zone.** Churn risk is concentrated in the first several months. A structured onboarding or check-in program in months 1–3 could catch dissatisfaction before it turns into a cancellation.
-- **Fiber-optic customers churn more despite paying more.** This is usually a signal of a service-quality or pricing-perception issue rather than a customer-fit issue — worth investigating with a satisfaction survey or support-ticket analysis for that segment specifically.
+- **Contract type is the single biggest lever:** Month-to-month customers churn at far higher rates than one- or two-year contract holders. Incentivizing a switch to longer commitments (even a modest discount) is likely the highest-leverage retention action available.
+- **Early tenure is the danger zone:** Churn risk is concentrated in the first several months. A structured onboarding or check-in program in months 1–3 could catch dissatisfaction before it turns into a cancellation.
+- **Fiber-optic customers churn more despite paying more:** This is usually a signal of a service-quality or pricing-perception issue rather than a customer-fit issue — worth investigating with a satisfaction survey or support-ticket analysis for that segment specifically.
 - **Suggested next step:** score the current customer base with this model, rank by predicted churn probability, and route the top-decile at-risk customers to a retention team — focusing first on month-to-month, low-tenure, fiber customers, since that's where the model and the EDA agree the risk concentrates.
 
 ## 📈 Visualizations Produced
